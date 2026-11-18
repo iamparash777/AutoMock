@@ -1,0 +1,24 @@
+{
+  "name": "Content Nest",
+  "id": "content-nest-local",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://randomuser.me",
+      "https://picsum.photos",
+      "https://fastly.picsum.photos",
+      "https://flagcdn.com",
+      "https://api.iconify.design",
+      "https://api.mapbox.com",
+      "https://api.simplesvg.com",
+      "https://api.unisvg.com"
+    ],
+    "reasoning": "Loads selected photos, flags, SVG icons and user-requested Mapbox maps. Custom text collections stay local."
+  }
+}

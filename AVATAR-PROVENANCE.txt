@@ -1,0 +1,12 @@
+AVATAR ASSET PROVENANCE
+Method: built-in imagegen tool, new image generation (not a stock-photo download).
+Source: one original atlas of 48 fictional adult portrait subjects.
+Project filename: avatar-atlas.png
+Grid: 8 columns x 6 rows. Cells are exactly 181 x 181 source pixels.
+Canvas: 1448 x 1086 pixels. The runtime exports selected tiles to 384 x 384 PNG.
+Rows: Asia, Europe, Africa, North America, South America, Oceania.
+Columns 1–4: male fictional characters. Columns 5–8: female fictional characters.
+The prompt intentionally specified varied appearances within each region.
+Labels belong to authored fictional samples; they are not verified demographic
+attributes of real people or an assertion that a region has a single appearance.
+Complete prompt: AVATAR-GENERATION-PROMPT.txt

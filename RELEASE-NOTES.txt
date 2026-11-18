@@ -1,0 +1,9 @@
+VERSION 0.3.0
+Added 48 original synthetic portrait avatars, bundled for offline use.
+Six regions: Asia, Europe, Africa, North America, South America and Oceania.
+Each has four male and four female portraits; Mixed shows both.
+All regions shows 48 built-in portraits, or 24 for a single gender.
+No manual upload/tagging, network connection, API key or account is needed.
+Portraits preview from a bundled atlas and insert as locally prepared PNG fills.
+Upload controls are optional; existing custom photos and collections are preserved.
+Keep your existing Figma plugin ID when upgrading. See README.txt.
